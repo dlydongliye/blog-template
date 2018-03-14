@@ -9,6 +9,6 @@ permalink: /:title
 name: “Liye's Blog”
 title: Liye's blog
 description: Everything about Liye.
-url: http://www.dongliye.cn/blog
+url: 
 feed: /atom.xml
 author_info: <a href="http://www.dongliye.cn/">Liye</a>
